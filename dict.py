@@ -1,0 +1,11 @@
+d={'ramu':30,'raju':40}
+print(d)
+print(d['ramu'])
+print(d.keys())
+print(d.items())
+d['anu']=10
+print(d)
+x=5
+y=4
+print(x<5)
+print(bool(0))

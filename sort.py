@@ -1,0 +1,10 @@
+a=[1,2,3,4,5,6,7,8,9]
+print(a)
+a.pop(6)
+print(a)
+a.append(99)
+print(a)
+a.append(100)
+print(a)
+a.sort()
+print(a)

@@ -1,0 +1,10 @@
+n1=int(input("enter 1st number"))
+n2=int(input("enter 2nd number"))
+sum=n1+n2
+print("sum of{} and {} is ={}".format(n1,n2,sum))
+sum=n1-n2
+print("sub of{} and {} is ={}".format(n1,n2,sum))
+sum=n1*n2
+print("mul of{} and {} is ={}".format(n1,n2,sum))
+sum=n1/n2
+print("div of{} and {} is ={}".format(n1,n2,sum))
